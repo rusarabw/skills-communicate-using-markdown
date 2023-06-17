@@ -11,3 +11,6 @@ def Volume(r : Double) : Double = {
     4 * math.Pi * r * r * r / 3.0
 }
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce my self to the world
